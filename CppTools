@@ -1,0 +1,8 @@
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+decimal to binary : (string form of binary number)
+std::string binary = std::bitset<bitWidth>(N).to_string(); //to binary
+Binary to decimal : (string form of binary number)
+unsigned long decimal = std::bitset<bitWidth>("1001").to_ulong();
+
+bitWidth : no of bits you want
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
